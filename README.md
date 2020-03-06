@@ -1,2 +1,0 @@
-# Elvis-Anning
-Python Assignment 
